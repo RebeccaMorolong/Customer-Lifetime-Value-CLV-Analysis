@@ -8,6 +8,11 @@ This SQL project focuses on calculating customer lifetime value and segmenting c
 - Highlight top 10% of high-value customers
 - Compare CLV by region or country
 
+  # Skills :
+ -  Date diffs
+ -  group by
+ -  revenue calculations
+
 ## 🧱 Schema
 - `customers`: customer metadata
 - `products`: product and pricing data
